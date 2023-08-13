@@ -1,0 +1,200 @@
+﻿  applicationclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(695,32): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(695,24): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(786,184): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(794,176): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(808,184): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(817,176): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(830,176): warning C4244: 'argumento': conversión de 'int' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(859,44): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(875,46): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(906,44): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(921,47): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(936,46): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(981,46): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1026,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1041,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1056,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1071,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1086,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1101,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1117,48): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1119,38): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1200,29): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1253,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1264,133): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\applicationclass.cpp(1280,133): warning C4305: 'argumento': truncamiento de 'double' a 'FLOAT'
+  axisalignedboundingbox.cpp
+  billboardclass.cpp
+  billboardshaderclass.cpp
+  bitmapclass.cpp
+  boundingpoint.cpp
+  boundingsphere.cpp
+  cameraclass.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : vea la definición anterior de 'DXGI_STATUS_OCCLUDED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : vea la definición anterior de 'DXGI_STATUS_CLIPPED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : vea la definición anterior de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : vea la definición anterior de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : vea la definición anterior de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : vea la definición anterior de 'DXGI_ERROR_INVALID_CALL'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : vea la definición anterior de 'DXGI_ERROR_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : vea la definición anterior de 'DXGI_ERROR_MORE_DATA'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : vea la definición anterior de 'DXGI_ERROR_UNSUPPORTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_RESET'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : vea la definición anterior de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : vea la definición anterior de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : vea la definición anterior de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : vea la definición anterior de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : vea la definición anterior de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : vea la definición anterior de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : vea la definición anterior de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : vea la definición anterior de 'D3D10_ERROR_FILE_NOT_FOUND'
+  cpuclass.cpp
+  d3dclass.cpp
+  diffuseshaderclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\diffuseshaderclass.cpp(82,20): warning C4101: 'cameraBufferDesc': variable local sin referencia
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\diffuseshaderclass.cpp(83,20): warning C4101: 'materialBufferDesc': variable local sin referencia
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\diffuseshaderclass.cpp(329,15): warning C4101: 'bufferNumber': variable local sin referencia
+  fontclass.cpp
+  fontshaderclass.cpp
+  fpsclass.cpp
+  group.cpp
+  inputclass.cpp
+  lightclass.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56388): message : vea la definición anterior de 'DXGI_STATUS_OCCLUDED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56397): message : vea la definición anterior de 'DXGI_STATUS_CLIPPED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56406): message : vea la definición anterior de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56415): message : vea la definición anterior de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56424): message : vea la definición anterior de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56433): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56442): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56457): message : vea la definición anterior de 'DXGI_ERROR_INVALID_CALL'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56466): message : vea la definición anterior de 'DXGI_ERROR_NOT_FOUND'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56475): message : vea la definición anterior de 'DXGI_ERROR_MORE_DATA'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56484): message : vea la definición anterior de 'DXGI_ERROR_UNSUPPORTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56493): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56502): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56512): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_RESET'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56521): message : vea la definición anterior de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56531): message : vea la definición anterior de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56540): message : vea la definición anterior de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56550): message : vea la definición anterior de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56559): message : vea la definición anterior de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56568): message : vea la definición anterior de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56578): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56587): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56841): message : vea la definición anterior de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\winerror.h(56850): message : vea la definición anterior de 'D3D10_ERROR_FILE_NOT_FOUND'
+  main.cpp
+  material.cpp
+  mesh.cpp
+  Generando código...
+  Compilando...
+  model.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\model.cpp(275,22): warning C4244: '=': conversión de 'double' a 'FLOAT'; posible pérdida de datos
+  modelclass.cpp
+  groupshaderclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\groupshaderclass.cpp(454,15): warning C4101: 'bufferNumber': variable local sin referencia
+  positionclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(536,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(539,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(542,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(545,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(548,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(551,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(620,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(623,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(626,40): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(629,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(632,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\positionclass.cpp(635,40): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  skydomeclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(16,20): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(40,131): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(41,39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(42,131): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(44,123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(45,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(46,123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(48,36): warning C4244: '=': conversión de 'double' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\skydomeclass.cpp(49,36): warning C4244: '=': conversión de 'double' a 'FLOAT'; posible pérdida de datos
+  skydomeshaderclass.cpp
+  sphereclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(40,131): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(41,39): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(42,131): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(44,123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(45,35): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(46,123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(48,36): warning C4244: '=': conversión de 'double' a 'FLOAT'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\sphereclass.cpp(49,36): warning C4244: '=': conversión de 'double' a 'FLOAT'; posible pérdida de datos
+  stadistics.cpp
+  systemclass.cpp
+  terrainclass.cpp
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\terrainclass.cpp(372,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\terrainclass.cpp(651,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\terrainclass.cpp(659,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\terrainclass.cpp(716,52): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  terrainshaderclass.cpp
+  textclass.cpp
+  textureclass.cpp
+  textureshaderclass.cpp
+  timerclass.cpp
+  watershaderclass.cpp
+  Generando código...
+C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Engine\terrainclass.cpp(717): warning C4715: 'TerrainClass::GetHeightAtPosition': no todas las rutas de acceso de control devuelven un valor
+  Engine.vcxproj -> C:\Users\ingri\Downloads\aaaaa graficas 2 - copia\aaaaa graficas 2 - copia\BlackComet Final\BlackComet Final\Debug\Engine.exe

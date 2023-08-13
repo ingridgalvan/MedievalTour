@@ -1,0 +1,53 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 29.05.2019 10:22:37
+
+newmtl 03___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Material__39_albedo.jpg
+	map_Kd Material__39_albedo.jpg
+	map_refl Material__39_roughness.jpg
+	map_bump Material__39_normal.jpg
+	map_refl Material__39_metallic.jpg
+
+newmtl 01___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Material__41_albedo.jpg
+	map_Kd Material__41_albedo.jpg
+	map_refl Material__41_roughness.jpg
+	map_bump Material__41_normal.jpg
+	map_refl Material__41_metallic.jpg
+
+newmtl 02___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka DefaultMaterial_albedo.jpg
+	map_Kd DefaultMaterial_albedo.jpg
+	map_refl DefaultMaterial_roughness.jpg
+	map_bump DefaultMaterial_normal.jpg
+	map_refl DefaultMaterial_metallic.jpg

@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.05.2019 21:32:36
+
+newmtl 01___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Final_Material__482_BaseColor.jpg
+	map_Kd Final_Material__482_BaseColor.jpg
+	map_refl Material__482_roughness.jpg
+	map_bump Final_Material__482_Normal.jpg
+	map_refl Material__482_metallic.jpg

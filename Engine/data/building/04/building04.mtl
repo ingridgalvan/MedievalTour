@@ -1,0 +1,20 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 28.05.2019 17:52:48
+
+newmtl 01___Default
+	Ns 25.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka SkyScraper_Kit_basecolor.jpg
+	map_Kd SkyScraper_Kit_basecolor.jpg
+	map_Ke SkyScraper_Kit_emissive.jpg
+	map_refl SkyScraper_Kit_roughness.jpg
+	map_bump SkyScraper_Kit_normal.jpg
+	map_refl SkyScraper_Kit_metallic.jpg
